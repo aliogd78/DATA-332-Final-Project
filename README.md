@@ -36,9 +36,9 @@ Our last step in cleaning the data was to filter out all of the blank values for
 
 The first chart we created shows amount of male and female butterflies by country.  
 ![Countries Where Male and Female Butterflies Were Found](https://user-images.githubusercontent.com/104874375/168444943-11e15c86-c486-46ab-9d51-8afd93d399cd.png)
-* This chart shows that there might be the certain climate the butterflies prefer and the butterflies might be found more in UK ad the USA.
-* To back up some reason, we can see that there are butterflies in Mexico because of the hot weather.
-* The scienctists might want to look in the reasoning.
+* This chart shows that there might be a certain climate that the butterflies prefer, and that is why they might be found more in UK and the USA.
+* To support this reasoning, we believe that there are so few butterflies in Mexico possibly due to the heat.
+* The scienctists might want to look in this further. 
 
 The next chart shows the Institutions that found the butterflies
 ![Institution Where Male and Female Butterflies Were Found](https://user-images.githubusercontent.com/104874375/168445169-d6dbc411-8548-4299-b879-84775d869482.png)
